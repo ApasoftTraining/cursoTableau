@@ -36,35 +36,3 @@
 "2020";"Julio";"23.924";"62.953";"31.052"
 "2020";"Agosto";"13.830";"34.711";"18.384"
 "2020";"Septiembre";"17.380";"32.783";"20.566"
-;;;;
-;;;;
-"Métrica":"Híbridos, eléctricos y otros"
-"Fuente":"Anfac / Faconauto / Ganvam"
-"Clasificación":""
-"Unidad":"Número de vehículos"
-"Escala":"Unidades"
-"EscalaFactorPotencia10":"0"
-"SonDatosNumericos":"True"
-;;;;
-;;;;
-"Métrica":"Gasolina"
-"Fuente":"Anfac / Faconauto / Ganvam"
-"Clasificación":""
-"Unidad":"Número de vehículos"
-"Escala":"Unidades"
-"EscalaFactorPotencia10":"0"
-"SonDatosNumericos":"True"
-;;;;
-;;;;
-"Métrica":"Diésel"
-"Fuente":"Anfac / Faconauto / Ganvam"
-"Clasificación":""
-"Unidad":"Número de vehículos"
-"Escala":"Unidades"
-"EscalaFactorPotencia10":"0"
-"SonDatosNumericos":"True"
-;;;;
-;;;;
-"Url":"https://www.epdata.es/vehiculos-diesel-tuvieron-matriculaciones/2a0a21f7-703e-488e-8e9d-6410d59c6679/espana/106"
-"Titulo":"Vehículos matriculados por tipo de carburantes"
-"Subtitulo":""
